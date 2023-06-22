@@ -13,7 +13,7 @@ I'm Gokul - I'm a passionate robotics engineer with expertise in AI and software
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats-jet-eight-42.vercel.app/api?username=Gokulsrinivas98&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&line_height=28)
+![](https://github-readme-stats-jet-eight-42.vercel.app/api?username=Gokulsrinivas98&theme=city_light&hide_border=false&include_all_commits=true&count_private=falsee&rank_icon=github&line_height=28)
 ![](https://github-readme-stats-gokulsrinivas98.vercel.app/api/top-langs/?username=Gokulsrinivas98&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=Makefile&card_width=390)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gokulsrinivas98&theme=city_light&hide_border=false&card_width=1004)
 
