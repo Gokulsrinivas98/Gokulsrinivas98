@@ -24,7 +24,7 @@ I'm Gokul - I'm a passionate robotics engineer with expertise in AI and software
 ---
 [![](https://visitcount.itsvg.in/api?id=Gokulsrinivas98&icon=5&color=12)](https://visitcount.itsvg.in)
 
-[![README card](https://github-readme-stats-dnka-git-master-gokulsrinivas98.vercel.app/api/pin/?username=Gokulsrinivas98&repo=Vision-Based-Manipulation)](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/)
-[![README card](https://github-readme-stats-dnka-git-master-gokulsrinivas98.vercel.app/api/pin/?username=Gokulsrinivas98&repo=CS509-Design-of-Software-Systems)](https://github.com/Gokulsrinivas98/CS509-Design-of-Software-Systems)
-[![README card](https://github-readme-stats-dnka-git-master-gokulsrinivas98.vercel.app/api/pin/?username=Gokulsrinivas98&repo=CSE539-ML-Project)](https://github.com/Gokulsrinivas98/CSE539-ML-Project)
-[![README card](https://github-readme-stats-dnka-git-master-gokulsrinivas98.vercel.app/api/pin/?username=Gokulsrinivas98&repo=RBE-Capstone)](https://github.com/Gokulsrinivas98/RBE-Capstone/tree/main)
+[![README card](https://github-readme-stats-dnka-g-git-ad3dd3-gokulsrinivas98s-projects.vercel.app/api/pin/?username=Gokulsrinivas98&repo=Vision-Based-Manipulation)](https://github.com/Gokulsrinivas98/Vision-Based-Manipulation/)
+[![README card](https://github-readme-stats-dnka-g-git-ad3dd3-gokulsrinivas98s-projects.vercel.app/api/pin/?username=Gokulsrinivas98&repo=CS509-Design-of-Software-Systems)](https://github.com/Gokulsrinivas98/CS509-Design-of-Software-Systems)
+[![README card](https://github-readme-stats-dnka-g-git-ad3dd3-gokulsrinivas98s-projects.vercel.app/api/pin/?username=Gokulsrinivas98&repo=CSE539-ML-Project)](https://github.com/Gokulsrinivas98/CSE539-ML-Project)
+[![README card](https://github-readme-stats-dnka-g-git-ad3dd3-gokulsrinivas98s-projects.vercel.app/api/pin/?username=Gokulsrinivas98&repo=RBE-Capstone)](https://github.com/Gokulsrinivas98/RBE-Capstone/tree/main)
